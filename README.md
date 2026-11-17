@@ -26,7 +26,7 @@ Interested in systems, performance, DevOps
 
 ## Hackathons & Awards
 [![NatIgnite 2025](https://img.shields.io/badge/NatIgnite_2025-2nd_place_·_$3K-gold?style=flat)](https://parmi-nat.pages.dev)
-![WhiteBit 2024](https://img.shields.io/badge/WhiteBit_2024-explained_Bitcoin_halving_·_$1.5K-silver?style=flat)
+![WhiteBit 2024](https://img.shields.io/badge/WhiteBit_2024-explained_Bitcoin_halving_·_0.05_BTC_(~$3.2K)-silver?style=flat)
 
 ## Currently Learning
 - Quantum spaghetti entanglement  
