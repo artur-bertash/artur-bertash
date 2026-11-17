@@ -6,7 +6,7 @@
       ▀▀▀       ▐▌                             
 ```
 
-I am Artur · CS @ UAlberta · DevOps intern @ CIBC · [site](https://artur-bertash.pages.dev) · [LinkedIn](https://www.linkedin.com/in/artur-bertash/)
+I am Artur · CS @ UAlberta · DevOps intern @ CIBC · [Portfolio site](https://artur-bertash.pages.dev) · [LinkedIn](https://www.linkedin.com/in/artur-bertash/)
 
 Interested in systems, performance, DevOps
 
@@ -23,6 +23,10 @@ Interested in systems, performance, DevOps
 
 ## Recent Project
 **[reverse_proxy_max](https://github.com/artur-bertash/reverse_proxy_max)**: a Go reverse proxy on a $12/mo AWS EC2 box, pushed from 32K to 72.5K concurrent users (2.5× stock Caddy) with a custom epoll server.
+
+## Hackathons & Awards
+[![NatIgnite 2025](https://img.shields.io/badge/NatIgnite_2025-2nd_place_·_$3K-gold?style=flat)](https://parmi-nat.pages.dev)
+![WhiteBit 2024](https://img.shields.io/badge/WhiteBit_2024-video_award_·_$1.5K-silver?style=flat)
 
 ## Currently Learning
 - Quantum spaghetti entanglement  
